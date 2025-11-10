@@ -1,0 +1,62 @@
+[
+    {
+        "query": "energetic urban jacket",
+        "results": [
+            {
+                "name": "Streetwear Bomber",
+                "description": "Bold urban bomber jacket with reflective trim and a sharp silhouette for city nights.",
+                "similarity": 0.6143094516883038
+            },
+            {
+                "name": "Puffer Jacket",
+                "description": "Quilted puffer jacket with windproof shell and down insulation for cold-weather comfort.",
+                "similarity": 0.4562351970256865
+            },
+            {
+                "name": "Sporty Sneakers",
+                "description": "Lightweight trainers with vibrant accents and responsive cushioning for active days.",
+                "similarity": 0.42648068671636785
+            }
+        ]
+    },
+    {
+        "query": "cozy winter sweater",
+        "results": [
+            {
+                "name": "Cozy Knit Sweater",
+                "description": "Warm chunky knit in neutral tones, perfect for autumn lounging and coffee runs.",
+                "similarity": 0.5638225022279701
+            },
+            {
+                "name": "Puffer Jacket",
+                "description": "Quilted puffer jacket with windproof shell and down insulation for cold-weather comfort.",
+                "similarity": 0.41508352894365297
+            },
+            {
+                "name": "Classic White Tee",
+                "description": "Soft cotton T-shirt with a timeless fit, ideal for layering or casual days.",
+                "similarity": 0.38110659648188416
+            }
+        ]
+    },
+    {
+        "query": "sporty summer Tee",
+        "results": [
+            {
+                "name": "Classic White Tee",
+                "description": "Soft cotton T-shirt with a timeless fit, ideal for layering or casual days.",
+                "similarity": 0.5123161883797223
+            },
+            {
+                "name": "Flowy Midi Skirt",
+                "description": "Lightweight midi skirt with a playful pattern for breezy, romantic days.",
+                "similarity": 0.4076548837630867
+            },
+            {
+                "name": "Sporty Sneakers",
+                "description": "Lightweight trainers with vibrant accents and responsive cushioning for active days.",
+                "similarity": 0.39383507918399313
+            }
+        ]
+    }
+]
